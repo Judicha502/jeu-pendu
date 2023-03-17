@@ -58,11 +58,8 @@ Liste des tâches
 **Programmation des fonctions de base du jeu**
 
 - [ ]  Générer un fichier contenant une liste de mots pour le jeu.
-    - 
 - [ ]  Écrire une fonction pour choisir un mot aléatoire dans la liste.
-    - 
 - [ ]  Écrire une fonction pour afficher le mot caché sous forme de tirets.
-    - 
 - [ ]  Écrire une fonction pour demander au joueur de saisir une lettre.
 - [ ]  Écrire une fonction pour valider la lettre saisie par le joueur.
 - [ ]  Si la lettre est présente dans le mot, modifier l'affichage du mot caché pour inclure la lettre à la place des tirets.
