@@ -1,6 +1,9 @@
 # jeu-pendu
 
 Liste des tâches
+
+### Liste des tâches
+
 **Conception et design du jeu**
 
 - [x]  Définir le cahier des charges du jeu, ses règles et ses fonctionnalités.
@@ -12,12 +15,11 @@ Liste des tâches
         5. Si le joueur trouve le mot, le programme doit afficher un message de félicitations et demander si le joueur souhaite continuer ou quitter le jeu.
         6. Si le joueur atteint le maximum d'erreurs autorisé, le programme doit afficher un message de défaite et demander si le joueur souhaite continuer ou quitter le jeu.
         
-     - Le programme doit également permettre de  :
+        Le programme doit également permettre de  :
         
         1. recharger un autre mot à deviner
         2. proposer des indications 
         3. sauvegarder le score obtenu pour chaque partie. Le score représente le nombre de tentatives avant de retrouver le mot caché.
-        
 - [ ]  Concevoir les interfaces graphiques et les maquettes du jeu.
     - piste
         
@@ -44,6 +46,8 @@ Liste des tâches
 - [ ]  Planifier et répartir les tâches pour les différents membres de l'équipe.
     - Liste des membres du groupe 1:
         
+        Lilian
+        
         Evariste (chef de projet)
         
         Judicha
@@ -53,19 +57,17 @@ Liste des tâches
 
 **Programmation des fonctions de base du jeu**
 
-      Générer un fichier contenant une liste de mots pour le jeu.
-      
-      Écrire une fonction pour choisir un mot aléatoire dans la liste.
-          
-      Écrire une fonction pour afficher le mot caché sous forme de tirets.
-       
-      Écrire une fonction pour demander au joueur de saisir une lettre.
-      
-      Écrire une fonction pour valider la lettre saisie par le joueur.
-         Si la lettre est présente dans le mot, modifier l'affichage du mot caché pour inclure la lettre à la place des tirets.
-         Si la lettre n'est pas présente dans le mot, afficher un message pour informer le joueur.
-         
-      Écrire une fonction pour afficher les lettres déjà saisies par le joueur.
+- [ ]  Générer un fichier contenant une liste de mots pour le jeu.
+    - 
+- [ ]  Écrire une fonction pour choisir un mot aléatoire dans la liste.
+    - 
+- [ ]  Écrire une fonction pour afficher le mot caché sous forme de tirets.
+    - 
+- [ ]  Écrire une fonction pour demander au joueur de saisir une lettre.
+- [ ]  Écrire une fonction pour valider la lettre saisie par le joueur.
+- [ ]  Si la lettre est présente dans le mot, modifier l'affichage du mot caché pour inclure la lettre à la place des tirets.
+- [ ]  Si la lettre n'est pas présente dans le mot, afficher un message pour informer le joueur.
+- [ ]  Écrire une fonction pour afficher les lettres déjà saisies par le joueur.
 
 **Programmation de l'interface graphique**
 
