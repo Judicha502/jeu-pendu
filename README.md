@@ -1,6 +1,6 @@
 # jeu-pendu
 projet groupe 1 TD02 L1 MIASHS
-Liste des tâches
+
 
 ### Liste des tâches
 
